@@ -50,8 +50,19 @@ A simple web server environment. Placed an EC2 instance in a public subnet acces
 - ✅ VPC deleted
 - ✅ Amplify App deleted
 
-
 ## Screenshots
+
+### VPC Dashboard
+![VPC Dashboard](screenshots/vpc-dashboard.png)
+*VPC configuration showing the public subnet setup*
+
+### EC2 Instance Dashboard  
+![EC2 Dashboard](screenshots/ec2-dashboard.png)
+*EC2 instance running with Apache HTTP server*
+
+### Apache "It Works!" Page
+![It Works Page](screenshots/it-works.png)
+*Default Apache page confirming successful server deployment*
 
 ## Date
 November 19, 2025
