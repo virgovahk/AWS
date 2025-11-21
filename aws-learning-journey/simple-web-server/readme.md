@@ -65,6 +65,7 @@ A simple web server environment. Placed an EC2 instance in a public subnet acces
 
 ### Amplify Dashboard
 ![Amplify Dashboard](screenshots/amplify-overview.png)
+*Amplify app overviwe showing successful deployment*
 
 ### Amplify "Hello World" Page
 ![Hello World Page](screenshots/amplify-page.png)
